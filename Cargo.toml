@@ -12,4 +12,4 @@ keywords = ["flame-graph", "profiling", "compiler-plugin"]
 plugin = true
 
 [dependencies]
-flame = "0.2.0"
+flame = {git = "https://github.com/TyOverby/flame"}
